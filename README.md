@@ -9,3 +9,5 @@ Time-Series prediction with LSTMs: [Time_Series_Prediction](https://github.com/j
 Normalizing Flows tutorial: [Normalizing_Flows](https://github.com/jorgesarrato/Normalizing_Flows_Tutorial)
 
 Retrieval-Augmented Generation [Galaxy_Rag_Project](https://github.com/jorgesarrato/galaxy_rag_project)
+
+GNNs for Dark Matter Density Profile trained on High-Resolution Cosmological Hydrodynamical Galaxy Simulations [GNN_Galaxy_Profiles](https://github.com/jorgesarrato/GraphSimProfiles)
