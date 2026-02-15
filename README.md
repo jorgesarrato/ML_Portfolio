@@ -11,3 +11,7 @@ Normalizing Flows tutorial: [Normalizing_Flows](https://github.com/jorgesarrato/
 Retrieval-Augmented Generation [Galaxy_Rag_Project](https://github.com/jorgesarrato/galaxy_rag_project)
 
 GNNs for Dark Matter Density Profile trained on High-Resolution Cosmological Hydrodynamical Galaxy Simulations [GNN_Galaxy_Profiles](https://github.com/jorgesarrato/GraphSimProfiles)
+
+Score-Based Diffusion for 2D Dark Matter Density trained on High-Resolution Cosmological Hydrodynamical Galaxy Simulations [Diffusion_DM_2d](https://github.com/jorgesarrato/GraphSimProfiles)
+
+Flow-Matching implementation, 3 branches: non-conditional MNIST, conditonal MNIST, conditional NYU_Depth [UNet_FM](https://github.com/jorgesarrato/MNIST_Diffusion)
